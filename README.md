@@ -6,6 +6,7 @@ This project was to solidify my understanding of the CSS framework Tailwind. I w
 Link to project: https://tailwindexamplesite.netlify.app/
 
 How It's Made:
+
 Tech used: HTML, Tailwind CSS, Javascript
 
 The project was a fun one to do as Tailwind allowed for more customizable css unlike Bootstrap. Tailwind CSS allowed for easy implementation of CSS styling by using only class names which allowed for the project to be done much faster while still providing responsive clean styles that can be customized to any need.
